@@ -1,0 +1,18 @@
+
+#include "stdafx.h"
+#include "iostream"
+using namespace std;
+
+void main()
+{
+	int n, d, s;
+	s = 0;
+	cout << "ingrese un numero: ";
+	cin >> n;
+	while (n > 0) {
+		d = n % 10;
+		s = s + d;
+		n = n / 10;
+	}
+	cout << "la suma es:" << s << endl;
+}
