@@ -1,0 +1,19 @@
+#include "stdafx.h"
+#include "iostream"
+using namespace std;
+
+void main()
+{
+	int n, d, s, p;
+	s = 0; p = 0;
+	cout << "ingrese un numero: ";
+	cin >> n;
+	while (n > 0) {
+		d = n % 10;
+		if (d % 2 == 0)
+			p = p + 1;
+		n = n / 10;
+
+	}
+	cout << "hay:" << p << endl;
+}
