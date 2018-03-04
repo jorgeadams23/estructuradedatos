@@ -1,0 +1,65 @@
+#include "stdafx.h"
+#include "conio.h"
+#include <iostream>
+using namespace std;
+
+void contarpares();
+void sumardigito();
+
+void main()
+{
+	int op;
+	do {
+		cout << "------MENU-----" << endl;
+		cout << "1.- contar los pares de un numero entero" << endl;
+		cout << "2.- sumar digitos de un numero entero" << endl;
+		cout << "3.- salir" << endl;
+		cout << "digite una opcion: " << endl;
+		cin >> op;
+		switch (op)
+		{
+		case 1: {
+			contarpares();
+			break;
+		}
+
+		case 2: { sumardigito();
+			break;
+		}
+		case 3: {
+			cout << "saliendo de programa..." << endl;
+			break;
+		}
+		default: cout << "error" << endl;
+			break;
+		}
+	} while (op != 3);
+	
+}
+void contarpares()
+  {
+	int d, n, p = 0;
+	cout << "ingrese un numero: ";
+	cin >> n;
+	while (n > 0)
+	{
+		d = n % 10;
+		if (d % 2 == 0)
+			p = p + 1;
+		n = n / 10;
+	}
+	cout << "cantidad de pares: " << p << endl;
+  }
+void sumardigito()
+{
+	int n, d, s = 0;
+	cout << "ingrese un numero: ";
+	cin >> n;
+	while (n > 0)
+	{
+		d = n % 10;
+		s = s + d;
+		n = n / 10;
+	}
+	cout << "la suma es: " << s << endl;
+}
