@@ -1,0 +1,76 @@
+#pragma once
+class nota
+{
+private:
+	float examen1;
+	float examen2;
+	float examen3;
+	float practica;
+	float final;
+
+public:
+	nota(void);
+	~nota(void);
+
+	float calcularnota(float e1, float e2, float e3, float p1, float f1);
+};
+
+
+
+
+
+
+#include "stdafx.h"
+#include "nota.h"
+
+nota::nota(void)
+{
+	examen1 = 100;
+	examen2 = 100;
+	examen3 = 100;
+	practica = 100;
+	final = 80;
+}
+
+nota::~nota(void)
+{
+}
+float nota::calcularnota(float e1, float e2, float e3, float p1, float f1)
+{
+	int cal;
+	cal = (e1*0.133) + (e2*0.133) + (e3*0.133) + (p1*0.2) + (f1*0.4);
+	return cal;
+}
+
+
+
+
+
+
+
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+#include "nota.h"
+using namespace std;
+void main()
+{
+	float e1, e2, e3, p1, f1;
+	nota nota1, nota2;
+	cout << "nota primer parcial: ";
+	cin >> e1;
+	cout << "nota segundo parcial: ";
+	cin >> e2;
+	cout << "nota tercer parcial: ";
+	cin >> e3;
+	cout << "nota practica: ";
+	cin >> p1;
+	cout << "nota final";
+	cin >> f1;
+
+	cout << "nota final: " << nota1.calcularnota(e1, e2, e3, p1, f1) << endl;
+
+}
+
+
