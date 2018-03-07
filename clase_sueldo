@@ -1,0 +1,62 @@
+#pragma once
+class sueldo
+{
+private:
+	float hora_trabajada;
+	float pago_hora;
+
+public:
+	sueldo();
+	~sueldo();
+	float calcularsueldo(float, float);
+};
+
+
+
+
+
+#include "stdafx.h"
+#include "sueldo.h"
+#include "sueldo.h"
+
+
+sueldo::sueldo()
+{
+	hora_trabajada = 12;
+	pago_hora = 1500;
+}
+
+
+sueldo::~sueldo()
+{
+}
+float sueldo::calcularsueldo(float a, float b)
+{
+	float sueldo, i = 0.13;
+	sueldo = ((a*b) - (a*b*i));
+	return sueldo;
+
+}
+
+
+
+
+
+
+
+
+#include "stdafx.h"
+#include <iostream>
+#include "sueldo.h"
+using namespace std;
+
+void main()
+{
+	sueldo sueldo1, sueldo2;
+	float a, b;
+	cout << "ingrese las horas trabajas: ";
+	cin >> a;
+	cout << "ingrese pago por hora: ";
+	cin >> b;
+	cout << sueldo1.calcularsueldo(a, b) << endl;
+}
