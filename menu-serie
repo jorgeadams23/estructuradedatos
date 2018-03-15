@@ -1,0 +1,80 @@
+#include "stdafx.h"
+#include "conio.h"
+#include <iostream>
+using namespace std;
+
+
+void serie();
+void numerocurioso();
+void main()
+{
+	int op;
+	do {
+		cout << "------MENU-----" << endl;
+		cout << "1.- serie" << endl;
+		cout << "2.- numero curioso" << endl;
+		cout << "3.- salir" << endl;
+		cout << "digite una opcion: ";
+		cin >> op;
+		switch (op)
+		{
+		case 1: {
+			serie();
+			break;
+		}
+
+		case 2: { numerocurioso();
+			break;
+		}
+		case 3: {
+			cout << "saliendo de programa..." << endl;
+			break;
+		}
+		default: cout << "error" << endl;
+			break;
+		}
+	} while (op != 3);
+
+}
+
+void serie()
+{
+	int n, c;
+	int a = 1; int b = 4; int i = 1;
+	cout << "ingrese  su n: ";
+	cin >> n;
+	cout << a;
+	cout << " ";
+	cout << b;
+	while (i < n)
+	{
+		c = b + 5;
+		b = c;
+		cout << "\t " << c;
+		i = i + 1;
+	}
+	cout << endl;
+}
+void numerocurioso()
+{
+	int f = 1;int n, d; int i = 1; int s = 0;
+	cout << "ingrese un numero: ";
+	cin >> n;
+	while (n > 0)
+	{
+		d = n % 10;
+		while (i <= d)
+		{
+			f = f*i;
+			i = i + 1;
+			s = s + f;
+		}
+		n = n / 10;
+	}
+	if (s == n)
+		cout << "es un numero curioso ";
+	else
+		cout << "no es un numero curioso ";
+
+
+}
