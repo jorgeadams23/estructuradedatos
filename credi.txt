@@ -1,0 +1,818 @@
+﻿1>------ Build started: Project: ProyectoPrueba(PA2), Configuration: Debug Win32 ------
+1>  stdafx.cpp
+1>  AssemblyInfo.cpp
+1>  Autobus.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Autobus.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Autobus.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Autobus.cpp(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  AutobusOpciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Chofer.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Chofer.cpp(10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Chofer.cpp(17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Chofer.cpp(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Chofer.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Chofer.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Chofer.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Chofer.cpp(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  ChoferOpciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>  Cliente.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Cliente.cpp(10): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Cliente.cpp(17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Cliente.cpp(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Cliente.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Cliente.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Cliente.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Cliente.cpp(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  ClienteOpciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  CuentaChofer.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  CuentaCliente.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Pagar.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>  PantallaEmpresa.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  PantallaTipoUsuario.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Persona.cpp
+1>  PropietarioOpciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>  Propietarios.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Propietarios.cpp(9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Propietarios.cpp(16): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : see declaration of 'strcat'
+1>Propietarios.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Propietarios.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Propietarios.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+1>Propietarios.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Propietarios.cpp(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  ProyectoPrueba(PA2).cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(114): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Autobus.h(130): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(102): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Propietarios.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  RegistradoChofer.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(124): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(135): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(181): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(243): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaChofer.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(95): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(132): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Chofer.h(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>  RegistradoCliente.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(222): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(337): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\CuentaCliente.h(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Cliente.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Tarjeta.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Tarjeta.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Tarjeta.cpp(67): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>Tarjeta.cpp(93): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  TarjetaOpciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Tarjeta.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+1>          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+1>  Generating Code...
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(273): warning C4715: 'CuentaCliente::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(293): warning C4715: 'CuentaCliente::obtenerIdCliente' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(238): warning C4715: 'CuentaChofer::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(258): warning C4715: 'CuentaChofer::obtenerIdChofer' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(273): warning C4715: 'CuentaCliente::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(293): warning C4715: 'CuentaCliente::obtenerIdCliente' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(333): warning C4715: 'CuentaCliente::obtenerIdCuenta' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(238): warning C4715: 'CuentaChofer::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(258): warning C4715: 'CuentaChofer::obtenerIdChofer' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(318): warning C4715: 'CuentaChofer::obtenerMontoId' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(273): warning C4715: 'CuentaCliente::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(293): warning C4715: 'CuentaCliente::obtenerIdCliente' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(238): warning C4715: 'CuentaChofer::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(258): warning C4715: 'CuentaChofer::obtenerIdChofer' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(273): warning C4715: 'CuentaCliente::obtenerMonto' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentacliente.h(333): warning C4715: 'CuentaCliente::obtenerIdCuenta' : not all control paths return a value
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\cuentachofer.h(318): warning C4715: 'CuentaChofer::obtenerMontoId' : not all control paths return a value
+1>  Compiling...
+1>  Validaciones.cpp
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(13): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(30): warning C4018: '<' : signed/unsigned mismatch
+1>c:\users\jorge bryan adams\desktop\crediporte\proyectoprueba(pa2)\Validaciones.h(47): warning C4018: '<' : signed/unsigned mismatch
+1>  Generating Code...
+1>  ProyectoPrueba(PA2).vcxproj -> C:\Users\jorge bryan adams\Desktop\CREDIPORTE\Debug\ProyectoPrueba(PA2).exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
